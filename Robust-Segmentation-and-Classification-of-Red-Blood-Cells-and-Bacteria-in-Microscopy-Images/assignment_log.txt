@@ -1,0 +1,185 @@
+Task1to4
+Task1to4
+Task1to4
+Task1to4
+Task1to4
+Task1to4
+Task1to4
+Task1to4
+Task1to4
+Task1to4
+Task1to4
+Task1to4
+Task1to4
+Task1to4
+Task1to4
+Task1to4
+Task1to4
+Task1to4
+Task1to4
+Task1to4
+Task1to4
+{insertObjectAnnotation requires <a href="matlab:matlab.internal.addons.launchers.showExplorer('ErrorRecovery', 'identifier', 'VP', 'focused', 'insertObjectAnnotation');">Computer Vision Toolbox</a>.
+
+Error in <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('Task1to4', 'C:\Users\marcu\Desktop\Assignment_Input\Task1to4.m', 107)" style="font-weight:bold">Task1to4</a> (<a href="matlab: opentoline('C:\Users\marcu\Desktop\Assignment_Input\Task1to4.m',107,0)">line 107</a>)
+I_labeled = insertObjectAnnotation(I, 'circle', {stats.Centroid}, labels, 'Color', 'red', 'TextBoxOpacity', 0.9, 'FontSize', 18);
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+} 
+Task1to4
+{insertObjectAnnotation requires <a href="matlab:matlab.internal.addons.launchers.showExplorer('ErrorRecovery', 'identifier', 'VP', 'focused', 'insertObjectAnnotation');">Computer Vision Toolbox</a>.
+
+Error in <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('Task1to4', 'C:\Users\marcu\Desktop\Assignment_Input\Task1to4.m', 109)" style="font-weight:bold">Task1to4</a> (<a href="matlab: opentoline('C:\Users\marcu\Desktop\Assignment_Input\Task1to4.m',109,0)">line 109</a>)
+I_labeled = insertObjectAnnotation(I, 'circle', {stats.Centroid}, labels, 'Color', 'red', 'TextBoxOpacity', 0.9, 'FontSize', 18);
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+} 
+Task1to4
+{insertObjectAnnotation requires <a href="matlab:matlab.internal.addons.launchers.showExplorer('ErrorRecovery', 'identifier', 'VP', 'focused', 'insertObjectAnnotation');">Computer Vision Toolbox</a>.
+
+Error in <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('Task1to4', 'C:\Users\marcu\Desktop\Assignment_Input\Task1to4.m', 104)" style="font-weight:bold">Task1to4</a> (<a href="matlab: opentoline('C:\Users\marcu\Desktop\Assignment_Input\Task1to4.m',104,0)">line 104</a>)
+I_labeled = insertObjectAnnotation(I, 'circle', {stats.Centroid}, labels, 'Color', 'red', 'TextBoxOpacity', 0.9, 'FontSize', 18);
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+} 
+Task1to4
+{Unrecognized function or variable 'labels'.
+
+Error in <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('Task1to4', 'C:\Users\marcu\Desktop\Assignment_Input\Task1to4.m', 102)" style="font-weight:bold">Task1to4</a> (<a href="matlab: opentoline('C:\Users\marcu\Desktop\Assignment_Input\Task1to4.m',102,0)">line 102</a>)
+I_labeled = insertObjectAnnotation(I, 'circle', {stats.Centroid}, labels, 'Color', 'red', 'TextBoxOpacity', 0.9, 'FontSize', 18);
+                                                                  ^^^^^^
+} 
+Task1to4
+{insertObjectAnnotation requires <a href="matlab:matlab.internal.addons.launchers.showExplorer('ErrorRecovery', 'identifier', 'VP', 'focused', 'insertObjectAnnotation');">Computer Vision Toolbox</a>.
+
+Error in <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('Task1to4', 'C:\Users\marcu\Desktop\Assignment_Input\Task1to4.m', 111)" style="font-weight:bold">Task1to4</a> (<a href="matlab: opentoline('C:\Users\marcu\Desktop\Assignment_Input\Task1to4.m',111,0)">line 111</a>)
+I_labeled = insertObjectAnnotation(I, 'circle', {stats.Centroid}, labels, 'Color', 'red', 'TextBoxOpacity', 0.9, 'FontSize', 18);
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+} 
+Task1to4
+{insertObjectAnnotation requires <a href="matlab:matlab.internal.addons.launchers.showExplorer('ErrorRecovery', 'identifier', 'VP', 'focused', 'insertObjectAnnotation');">Computer Vision Toolbox</a>.
+
+Error in <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('Task1to4', 'C:\Users\marcu\Desktop\Assignment_Input\Task1to4.m', 111)" style="font-weight:bold">Task1to4</a> (<a href="matlab: opentoline('C:\Users\marcu\Desktop\Assignment_Input\Task1to4.m',111,0)">line 111</a>)
+I_labeled = insertObjectAnnotation(I, 'circle', {stats.Centroid}, labels, 'Color', 'red', 'TextBoxOpacity', 0.9, 'FontSize', 18);
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+} 
+Task1to4
+{insertObjectAnnotation requires <a href="matlab:matlab.internal.addons.launchers.showExplorer('ErrorRecovery', 'identifier', 'VP', 'focused', 'insertObjectAnnotation');">Computer Vision Toolbox</a>.
+
+Error in <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('Task1to4', 'C:\Users\marcu\Desktop\Assignment_Input\Task1to4.m', 111)" style="font-weight:bold">Task1to4</a> (<a href="matlab: opentoline('C:\Users\marcu\Desktop\Assignment_Input\Task1to4.m',111,0)">line 111</a>)
+I_labeled = insertObjectAnnotation(I, 'circle', {stats.Centroid}, labels, 'Color', 'red', 'TextBoxOpacity', 0.9, 'FontSize', 18);
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+} 
+Task1to4
+Labels
+    {'blood cell'}
+    {'bacteria'  }
+    {'bacteria'  }
+    {'bacteria'  }
+    {'blood cell'}
+    {'bacteria'  }
+    {'blood cell'}
+    {'bacteria'  }
+    {'blood cell'}
+    {'blood cell'}
+    {'blood cell'}
+    {'blood cell'}
+    {'blood cell'}
+    {'blood cell'}
+    {'bacteria'  }
+
+Centroids:
+  Columns 1 through 2
+
+    {[51.5723 147.7417]}    {[41.3277 292.4880]}
+
+  Columns 3 through 5
+
+    {[322.8596 248.4421]}    {[392.8080 57.2952]}    {[343 274.7647]}
+
+  Columns 6 through 7
+
+    {[379.4260 289.5921]}    {[426.7289 414.4029]}
+
+  Columns 8 through 9
+
+    {[415.5317 250.3908]}    {[433.9189 230.9189]}
+
+  Columns 10 through 12
+
+    {[588.5545 162.2520]}    {[542.2857 2.3810]}    {[570 328]}
+
+  Columns 13 through 14
+
+    {[593.1644 414.8356]}    {[725.9321 96.1935]}
+
+  Column 15
+
+    {[801.2905 396.2063]}
+
+{insertObjectAnnotation requires <a href="matlab:matlab.internal.addons.launchers.showExplorer('ErrorRecovery', 'identifier', 'VP', 'focused', 'insertObjectAnnotation');">Computer Vision Toolbox</a>.
+
+Error in <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('Task1to4', 'C:\Users\marcu\Desktop\Assignment_Input\Task1to4.m', 115)" style="font-weight:bold">Task1to4</a> (<a href="matlab: opentoline('C:\Users\marcu\Desktop\Assignment_Input\Task1to4.m',115,0)">line 115</a>)
+I_labeled = insertObjectAnnotation(I, 'circle', {stats.Centroid}, labels, 'Color', 'red', 'TextBoxOpacity', 0.9, 'FontSize', 18);
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+} 
+Task1to4
+{Error using <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('line')" style="font-weight:bold">line</a>
+Invalid RGB triplet. Specify a three-element vector of values
+between 0 and 1.
+
+Error in <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('viscircles', 'C:\Program Files\MATLAB\R2024b\toolbox\images\imuitools\viscircles.m', 51)" style="font-weight:bold">viscircles</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2024b\toolbox\images\imuitools\viscircles.m',51,0)">line 51</a>)
+line(x,y,'Parent',h, ...
+^^^^^^^^^^^^^^^^^^^^^^^^
+Error in <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('Task1to4', 'C:\Users\marcu\Desktop\Assignment_Input\Task1to4.m', 113)" style="font-weight:bold">Task1to4</a> (<a href="matlab: opentoline('C:\Users\marcu\Desktop\Assignment_Input\Task1to4.m',113,0)">line 113</a>)
+    viscircles(centroid, radius, 'EdgeColor', strcmp(labels{k}, 'blood cell') * 'r' +strcmp(labels{k}, 'bacteria') * 'b');
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+} 
+matlab.lang.internal.introspective.errorDocCallback('line')
+matlab.lang.internal.introspective.errorDocCallback('line')
+Task1to4
+{Error using <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('line')" style="font-weight:bold">line</a>
+Invalid RGB triplet. Specify a three-element vector of values
+between 0 and 1.
+
+Error in <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('viscircles', 'C:\Program Files\MATLAB\R2024b\toolbox\images\imuitools\viscircles.m', 51)" style="font-weight:bold">viscircles</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2024b\toolbox\images\imuitools\viscircles.m',51,0)">line 51</a>)
+line(x,y,'Parent',h, ...
+^^^^^^^^^^^^^^^^^^^^^^^^
+Error in <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('Task1to4', 'C:\Users\marcu\Desktop\Assignment_Input\Task1to4.m', 116)" style="font-weight:bold">Task1to4</a> (<a href="matlab: opentoline('C:\Users\marcu\Desktop\Assignment_Input\Task1to4.m',116,0)">line 116</a>)
+    viscircles(centroid, radius, 'EdgeColor', strcmp(labels{k}, 'blood cell') * 'r' +strcmp(labels{k}, 'bacteria') * 'b');
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+} 
+Task1to4
+Task1to4
+Task1to4
+Task1to4
+Task1to4
+Task1to4
+Task1to4
+{Unrecognized field name "Eccentricity".
+
+Error in <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('Task1to4', 'C:\Users\marcu\Desktop\Assignment_Input\Task1to4.m', 96)" style="font-weight:bold">Task1to4</a> (<a href="matlab: opentoline('C:\Users\marcu\Desktop\Assignment_Input\Task1to4.m',96,0)">line 96</a>)
+    eccentricity = stats(k).Eccentricity;
+                   ^^^^^^^^^^^^^^^^^^^^^
+} 
+Task1to4
+{Unrecognized field name "Solidity".
+
+Error in <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('Task1to4', 'C:\Users\marcu\Desktop\Assignment_Input\Task1to4.m', 96)" style="font-weight:bold">Task1to4</a> (<a href="matlab: opentoline('C:\Users\marcu\Desktop\Assignment_Input\Task1to4.m',96,0)">line 96</a>)
+    solidity = stats(k).Solidity;
+               ^^^^^^^^^^^^^^^^^
+} 
+Task1to4
+{Unable to perform assignment because the size of the left side is
+1-by-5 and the size of the right side is 1-by-2.
+
+Error in <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('Task1to4', 'C:\Users\marcu\Desktop\Assignment_Input\Task1to4.m', 96)" style="font-weight:bold">Task1to4</a> (<a href="matlab: opentoline('C:\Users\marcu\Desktop\Assignment_Input\Task1to4.m',96,0)">line 96</a>)
+    features(k, :) = [roundness, area,];
+    ^^^^^^^^^^^^^^
+} 
+Task1to4
+{Error using <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('load')" style="font-weight:bold">load</a>
+Unable to find file or directory 'trainedClassifier.mat'.
+
+Error in <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('Task1to4', 'C:\Users\marcu\Desktop\Assignment_Input\Task1to4.m', 101)" style="font-weight:bold">Task1to4</a> (<a href="matlab: opentoline('C:\Users\marcu\Desktop\Assignment_Input\Task1to4.m',101,0)">line 101</a>)
+load('trainedClassifier.mat');
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+} 
+Task1to4
